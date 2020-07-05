@@ -5,4 +5,4 @@ This page is a *collection of my notes* as I gain more knowledge & experience as
 ### Daily Reading Assignments: Table of Contents
 ----- Contents to be uploaded soon! -----
 
-Author: **Darius Lee Pasilaban** | [Darius' Github Page](https://github.com/pdariuslee)
+Author: **Darius Lee Pasilaban** \| [Darius' Github Page](https://github.com/pdariuslee)
