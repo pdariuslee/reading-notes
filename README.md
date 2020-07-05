@@ -1,6 +1,8 @@
-## Welcome to Darius Lee's Reading Notes
-### Description
-This page is a collection of my notes as I become a better Software Developer.
+# Code 201 Reading Notes
+## Description
+This page is a *collection of my notes* as I become a more experienced **Software Developer**.
+
+### Daily Reading Assignments: Table of Contents
 
 
 
