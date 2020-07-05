@@ -1,6 +1,8 @@
-## Welcome to Darius' Reading Notes
+## Welcome to Darius Lee's Reading Notes
 ### Description
 This page is a collection of my notes as I become a better Software Developer.
+
+
 
 ## Welcome to GitHub Pages
 
