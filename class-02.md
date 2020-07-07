@@ -81,12 +81,7 @@ ___
    
    - Do...While : is similar to while loop, but it will always run the statements inside the curly braces at least once, even if the condition is false.
  
- ---
  
- # Additional Resources
- 
- https://chris.beams.io/posts/git-commit/
-
  
 
 [Back to Home](https://pdariuslee.github.io/reading-notes/)
