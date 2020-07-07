@@ -16,9 +16,9 @@
 ___
 
 
- # From the Duckett JS book
+# From the Duckett JS book
  
- ## Chapter 2: "Basic Javascript Instructions"
+## Chapter 2: "Basic Javascript Instructions"
  
  - JS serves as the verb that tells a webpage what to do precisely
  
@@ -38,7 +38,7 @@ ___
    
  - Arrays is a container like a variable but can store more information 
  
- ## Chapter 4: "Decisions and Loops"
+## Chapter 4: "Decisions and Loops"
  
  - Comparison Operators
    - `==`
