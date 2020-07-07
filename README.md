@@ -3,34 +3,34 @@
 This page is a *collection of my notes* as I gain more knowledge & experience as a **Software Developer**.
 
 ### Table of Contents
-Class 1 \| [Introductory HTML & JavaScript](class-01.md)
+Read 1 \| [Introductory HTML & JavaScript](class-01.md)
 
-Class 2 \|
+Read 2 \|
 
-Class 3 \|
+Read 3 \|
 
-Class 4 \|
+Read 4 \|
 
-Class 5 \|
+Read 5 \|
 
-Class 6 \|
+Read 6 \|
 
-Class 7 \|
+Read 7 \|
 
-Class 8 \|
+Read 8 \|
 
-Class 9 \|
+Read 9 \|
 
-Class 10 \|
+Read 10 \|
 
-Class 11 \|
+Read 11 \|
 
-Class 12 \|
+Read 12 \|
 
-Class 13 \|
+Read 13 \|
 
-Class 14 \|
+Read 14 \|
 
-Class 15 \|
+Read 15 \|
 
 Author: **Darius Lee Pasilaban** \| [Darius' Github Page](https://github.com/pdariuslee)
