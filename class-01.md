@@ -55,11 +55,15 @@
 ## HTML Chapter 18: Process & Design
 
 - Who is the site for?
+
   - individuals
+  
   - companies
   
 - Why people visit your website?
+
   - key motivations
+  
   - specific goals
   
 - What your visitors are trying to achieve?
