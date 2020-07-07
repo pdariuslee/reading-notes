@@ -5,9 +5,9 @@ This page is a *collection of my notes* as I gain more knowledge & experience as
 ### Table of Contents
 Read 1 \| [Introductory HTML & JavaScript](class-01.md)
 
-Read 2 \|
+Read 2 \| [HTML Text, CSS Introduction, and Basic JavaScript Instruction]()
 
-Read 3 \|
+Read 3 \| [HTML Lists, CSS Boxes, JS Control Flow]()
 
 Read 4 \|
 
