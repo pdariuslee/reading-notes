@@ -89,3 +89,5 @@ ___
 - Best to keep JS codes in its own file
 
 - The `<script>` tag is used in HTML to load the JS file in the browser
+
+[Back to Home](https://pdariuslee.github.io/reading-notes/)
