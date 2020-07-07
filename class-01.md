@@ -60,7 +60,7 @@
   
 - Why people visit your website?
   - key motivations
-  -specific goals
+  - specific goals
   
 - What your visitors are trying to achieve?
 
@@ -70,8 +70,7 @@ ___
 
 
  # From the Duckett JS book
->
->
+
  ## Introduction
  
  - How JavaScript makes web pages more interactive?
@@ -89,4 +88,4 @@ ___
 
 - Best to keep JS codes in its own file
 
-- <script> tag is used in HTML to load the JS file in the browser
+- The `<script>` tag is used in HTML to load the JS file in the browser
