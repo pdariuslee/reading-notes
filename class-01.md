@@ -73,9 +73,9 @@
 ___
 
 
- # From the Duckett JS book
+# From the Duckett JS book
 
- ## Introduction
+## Introduction
  
  - How JavaScript makes web pages more interactive?
  
