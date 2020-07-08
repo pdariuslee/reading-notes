@@ -7,7 +7,7 @@ Read 1 \| [Introductory HTML & JavaScript](class-01.md)
 
 Read 2 \| [HTML Text, CSS Introduction, and Basic JavaScript Instruction](class-02.md)
 
-Read 3 \| [HTML Lists, CSS Boxes, JS Control Flow]()
+Read 3 \| [HTML Lists, CSS Boxes, JS Control Flow](class-03.md)
 
 Read 4 \| [HTML Links, CSS Layout, JS Functions]()
 
