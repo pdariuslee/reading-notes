@@ -1,6 +1,6 @@
 # From the Duckett JS & JQuery book
 
-## Chapter 5: "Object Literals"
+## Chapter 3: "Object Literals"
 
 - What is an **Object**?
 
@@ -13,7 +13,7 @@
   
   - Variables and named functions, properties and methods have a name and a value. In an object that name is called a **key**
 
-## Chapter 11: "Document Object Model"
+## Chapter 5: "Document Object Model"
 
 - Browser represents a page using a DOM tree
 
