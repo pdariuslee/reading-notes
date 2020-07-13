@@ -13,7 +13,7 @@ Read 4 \| [HTML Links, CSS Layout, JS Functions](class-04.md)
 
 Read 5 \| [HTML Images: CSS Color & Text](class-05.md)
 
-Read 6 \| [JS Object Literals; The DOM]()
+Read 6 \| [JS Object Literals; The DOM](class-06.md)
 
 Read 7 \| [HTML Tables: JS Constructor Functions]()
 
