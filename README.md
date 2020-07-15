@@ -17,7 +17,7 @@ Read 6 \| [JS Object Literals; The DOM](class-06.md)
 
 Read 7 \| [HTML Tables: JS Constructor Functions](class-07.md)
 
-Read 8 \| [More CSS Layout]()
+Read 8 \| [More CSS Layout](class-08.md)
 
 Read 9 \| [Forms and Events]()
 
