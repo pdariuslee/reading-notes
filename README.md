@@ -23,7 +23,7 @@ Read 9 \| [Forms and Events](class-09.md)
 
 Read 10 \| [JS Debugging](class-10.md)
 
-Read 11 \| [Assorted Topics]()
+Read 11 \| [Assorted Topics](class-11.md)
 
 Read 12 \| [Docs for the HTML `<canvas>` Element & Chart.js]()
 
