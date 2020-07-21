@@ -25,7 +25,7 @@ Read 10 \| [JS Debugging](class-10.md)
 
 Read 11 \| [Assorted Topics](class-11.md)
 
-Read 12 \| [Docs for the HTML `<canvas>` Element & Chart.js]()
+Read 12 \| [Docs for the HTML `<canvas>` Element & Chart.js](class-12.md)
 
 Read 13 \| [Local Storage]()
 
