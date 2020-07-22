@@ -31,6 +31,6 @@ Read 13 \| [Local Storage](class-13.md)
 
 Read 14a \| [CSS Transforms, Transitions, and Animations](class-14a.md)
 
-Read 14b \| [What Google Learned About Teams]()
+Read 14b \| [What Google Learned About Teams](class-14b.md)
 
 Author: **Darius Lee Pasilaban** \| [Darius' Github Page](https://github.com/pdariuslee)
