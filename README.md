@@ -27,7 +27,7 @@ Read 11 \| [Assorted Topics](class-11.md)
 
 Read 12 \| [Docs for the HTML `<canvas>` Element & Chart.js](class-12.md)
 
-Read 13 \| [Local Storage]()
+Read 13 \| [Local Storage](class-13.md)
 
 Read 14a \| [CSS Transforms, Transitions, and Animations]()
 
