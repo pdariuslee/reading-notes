@@ -45,6 +45,6 @@ Read 14b \| [What Google Learned About Teams](201/lass-14b.md)
 
 ## Code 301
 
-Read 01: [Responsive Web Design and Floats](301/Read 01.md)
+Read 01: [Responsive Web Design and Floats](301/Read-01.md)
 
 Author: **Darius Lee Pasilaban** \| [Darius' Github Page](https://github.com/pdariuslee)
