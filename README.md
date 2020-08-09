@@ -39,7 +39,7 @@ Read 13 \| [Local Storage](201/class-13.md)
 
 Read 14a \| [CSS Transforms, Transitions, and Animations](201/class-14a.md)
 
-Read 14b \| [What Google Learned About Teams](201/lass-14b.md)
+Read 14b \| [What Google Learned About Teams](201/class-14b.md)
 
 ---
 

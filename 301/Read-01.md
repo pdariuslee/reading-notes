@@ -52,3 +52,6 @@ One quick way to make media scalable is by using the max-width property with a v
 
 - Floats often get beat on for being fragile. The majority of this fragility comes from IE 6 and the slew of float-related bugs it has.
 
+
+
+[Back to Home](https://pdariuslee.github.io/reading-notes/)
