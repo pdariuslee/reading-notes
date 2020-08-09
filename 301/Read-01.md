@@ -1,5 +1,6 @@
-# Shay Howe's intro to Responsive Web Design
-## Source: https://learn.shayhowe.com/advanced-html-css/responsive-web-design/
+# Responsive Web Design and Floats
+
+## Article: [Shay Howe's intro to Responsive Web Design](https://learn.shayhowe.com/advanced-html-css/responsive-web-design/)
 
 ## Responsive Overview
 
@@ -25,9 +26,8 @@ One quick way to make media scalable is by using the max-width property with a v
 
 ---
 
-# All About Float
+## Article: [All About Float](https://css-tricks.com/all-about-floats/)
 
-## Source: https://css-tricks.com/all-about-floats/
 
 ## What is "Float"?
 
