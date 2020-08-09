@@ -13,33 +13,33 @@ This page is a collection of my notes as I gain more knowledge & experience as a
 
 Read 1 \| [Introductory HTML & JavaScript](201/class-01.md)
 
-Read 2 \| [HTML Text, CSS Introduction, and Basic JavaScript Instruction](class-02.md)
+Read 2 \| [HTML Text, CSS Introduction, and Basic JavaScript Instruction](201/class-02.md)
 
-Read 3 \| [HTML Lists, CSS Boxes, JS Control Flow](class-03.md)
+Read 3 \| [HTML Lists, CSS Boxes, JS Control Flow](201/class-03.md)
 
-Read 4 \| [HTML Links, CSS Layout, JS Functions](class-04.md)
+Read 4 \| [HTML Links, CSS Layout, JS Functions](201/class-04.md)
 
-Read 5 \| [HTML Images: CSS Color & Text](class-05.md)
+Read 5 \| [HTML Images: CSS Color & Text](201/class-05.md)
 
-Read 6 \| [JS Object Literals; The DOM](class-06.md)
+Read 6 \| [JS Object Literals; The DOM](201/class-06.md)
 
-Read 7 \| [HTML Tables: JS Constructor Functions](class-07.md)
+Read 7 \| [HTML Tables: JS Constructor Functions](201/class-07.md)
 
-Read 8 \| [More CSS Layout](class-08.md)
+Read 8 \| [More CSS Layout](201/class-08.md)
 
-Read 9 \| [Forms and Events](class-09.md)
+Read 9 \| [Forms and Events](201/class-09.md)
 
-Read 10 \| [JS Debugging](class-10.md)
+Read 10 \| [JS Debugging](201/class-10.md)
 
-Read 11 \| [Assorted Topics](class-11.md)
+Read 11 \| [Assorted Topics](201/class-11.md)
 
-Read 12 \| [Docs for the HTML `<canvas>` Element & Chart.js](class-12.md)
+Read 12 \| [Docs for the HTML `<canvas>` Element & Chart.js](201/class-12.md)
 
-Read 13 \| [Local Storage](class-13.md)
+Read 13 \| [Local Storage](201/class-13.md)
 
-Read 14a \| [CSS Transforms, Transitions, and Animations](class-14a.md)
+Read 14a \| [CSS Transforms, Transitions, and Animations](201/class-14a.md)
 
-Read 14b \| [What Google Learned About Teams](class-14b.md)
+Read 14b \| [What Google Learned About Teams](201/lass-14b.md)
 
 ---
 
