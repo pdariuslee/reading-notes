@@ -47,6 +47,8 @@ Read 14b \| [What Google Learned About Teams](201/class-14b.md)
 
 Read 01: [Responsive Web Design and Floats](301/Read-01.md)
 
+Read 02: [jQuery, Events, and The DOM](301/Read-02.md)
+
 ---
 
 ## Code 401
