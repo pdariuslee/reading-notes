@@ -51,6 +51,8 @@ Read 02: [jQuery, Events, and The DOM](301/Read-02.md)
 
 Read 03: [MUSTACHE and FLEXBOX](301/Read-03.md)
 
+Read 04: [Responsive Web Design and Regular Expressions](301/Read-04.md)
+
 ---
 
 ## Code 401
