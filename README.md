@@ -55,6 +55,8 @@ Read 04: [Responsive Web Design and Regular Expressions](301/Read-04.md)
 
 Read 05: [Heroku](301/Read-05.md)
 
+Read 06: [Node, Express, and APIs](301/Read-06.md)
+
 ---
 
 ## Code 401
