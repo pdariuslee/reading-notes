@@ -57,6 +57,8 @@ Read 05: [Heroku](301/Read-05.md)
 
 Read 06: [Node, Express, and APIs](301/Read-06.md)
 
+Read 07: [APIs](301/Read-07.md)
+
 ---
 
 ## Code 401
