@@ -59,7 +59,7 @@ Read 06: [Node, Express, and APIs](301/Read-06.md)
 
 Read 07: [APIs](301/Read-07.md)
 
-Read 07: [SQL](301/Read-08.md)
+Read 08: [SQL](301/Read-08.md)
 
 ---
 
