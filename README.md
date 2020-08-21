@@ -63,6 +63,20 @@ Read 08: [SQL](301/Read-08.md)
 
 Read 09: [Refactoring](301/Read-09.md)
 
+Read 10: [The Call Stack and Debugging](301/Read-10.md)
+
+Read 11: [EJS]
+
+Read 12: [Components]
+
+Read 13: [Update and Delete]
+
+Read 14a: [DB Normalization]
+
+Read 14b: [Project Ideas and APIs]
+
+Read 15: [Diversity and Inclusion]
+
 ---
 
 ## Code 401
