@@ -67,7 +67,7 @@ Read 10: [The Call Stack and Debugging](301/Read-10.md)
 
 Read 11: [EJS](301/Read-11.md)
 
-Read 12: [Components]
+Read 12: [Components](301/Read-12.md)
 
 Read 13: [Update and Delete]
 
