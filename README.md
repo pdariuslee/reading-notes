@@ -69,7 +69,7 @@ Read 11: [EJS](301/Read-11.md)
 
 Read 12: [Components](301/Read-12.md)
 
-Read 13: [Update and Delete]
+Read 13: [Update and Delete](301/Read-13.md)
 
 Read 14a: [DB Normalization]
 
