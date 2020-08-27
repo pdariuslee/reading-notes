@@ -71,7 +71,7 @@ Read 12: [Components](301/Read-12.md)
 
 Read 13: [Update and Delete](301/Read-13.md)
 
-Read 14a: [DB Normalization]
+Read 14a: [DB Normalization](301/Read-14a.md)
 
 Read 14b: [Project Ideas and APIs]
 
