@@ -79,4 +79,18 @@ Read 15: [Diversity and Inclusion](301/Read-15.md)
 
 ## Code 401
 
+Read 01:
+
+Read 02:
+
+Read 03:
+
+Read 04:
+
+Read 05:
+
+Read 06:
+
+Read 07:
+
 Author: **Darius Lee Pasilaban** \| [Darius' Github Page](https://github.com/pdariuslee)
