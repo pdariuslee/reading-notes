@@ -87,7 +87,7 @@ Read 02: [Readings: Classes, Inheritance, Functional P](401/Class-02.md)
 
 Read 03: [Readings: Data Modeling & NoSQL Database](401/Class-03.md)
 
-Read 04:
+Read 04: [Advanced Mongo/Mongoose](401/Class-04.md)
 
 Read 05:
 
