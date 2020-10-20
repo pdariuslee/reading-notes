@@ -89,9 +89,9 @@ Read 03: [Readings: Data Modeling & NoSQL Database](401/Class-03.md)
 
 Read 04: [Advanced Mongo/Mongoose](401/Class-04.md)
 
-Read 05:
+Read 05: [Linked List](401/Class-05.md)
 
-Read 06:
+Read 06: [HTTP and REST](401/Class-06.md)
 
 Read 07:
 
