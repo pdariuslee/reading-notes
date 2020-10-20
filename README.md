@@ -93,6 +93,6 @@ Read 05: [Linked List](401/Class-05.md)
 
 Read 06: [HTTP and REST](401/Class-06.md)
 
-Read 07:
+Read 07: [Express](401/Class-07.md)
 
 Author: **Darius Lee Pasilaban** \| [Darius' Github Page](https://github.com/pdariuslee)
