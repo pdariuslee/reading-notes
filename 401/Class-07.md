@@ -2,7 +2,7 @@
 
 ## [HTTP Basics](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 
-### By Pavan Podila
+<!-- ### Author -->
 
 ---
 
