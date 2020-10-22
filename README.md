@@ -95,4 +95,6 @@ Read 06: [HTTP and REST](401/Class-06.md)
 
 Read 07: [Express](401/Class-07.md)
 
+Read 08: [Express Routing & Connected API](401/Class-08.md)
+
 Author: **Darius Lee Pasilaban** \| [Darius' Github Page](https://github.com/pdariuslee)
