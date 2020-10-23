@@ -97,4 +97,6 @@ Read 07: [Express](401/Class-07.md)
 
 Read 08: [Express Routing & Connected API](401/Class-08.md)
 
+Read 09: [API Server](401/Class-09.md)
+
 Author: **Darius Lee Pasilaban** \| [Darius' Github Page](https://github.com/pdariuslee)
