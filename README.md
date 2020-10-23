@@ -99,4 +99,6 @@ Read 08: [Express Routing & Connected API](401/Class-08.md)
 
 Read 09: [API Server](401/Class-09.md)
 
+Read 10: [Stacks and Queues](401/Class-10.md)
+
 Author: **Darius Lee Pasilaban** \| [Darius' Github Page](https://github.com/pdariuslee)
