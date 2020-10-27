@@ -101,4 +101,6 @@ Read 09: [API Server](401/Class-09.md)
 
 Read 10: [Stacks and Queues](401/Class-10.md)
 
+Read 11: [Authentication](401/Class-11.md)
+
 Author: **Darius Lee Pasilaban** \| [Darius' Github Page](https://github.com/pdariuslee)
