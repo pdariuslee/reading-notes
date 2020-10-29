@@ -105,5 +105,7 @@ Read 11: [Authentication](401/Class-11.md)
 
 Read 12: [Bearer Authorization](401/Class-12.md)
 
+Read 13: [OAuth](401/Class-13.md)
+
 
 Author: **Darius Lee Pasilaban** \| [Darius' Github Page](https://github.com/pdariuslee)
