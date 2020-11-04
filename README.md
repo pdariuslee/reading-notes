@@ -113,5 +113,7 @@ Read 15: [Trees](401/Class-15.md)
 
 Read 16: [Event Driven Applications](401/Class-16.md)
 
+Read 17: [TCP Servers](401/Class-17.md)
+
 
 Author: **Darius Lee Pasilaban** \| [Darius' Github Page](https://github.com/pdariuslee)
