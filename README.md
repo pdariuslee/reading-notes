@@ -117,5 +117,7 @@ Read 17: [TCP Servers](401/Class-17.md)
 
 Read 18: [Socket.io](401/Class-18.md)
 
+Read 19: [Message Queues](401/Class-19.md)
+
 
 Author: **Darius Lee Pasilaban** \| [Darius' Github Page](https://github.com/pdariuslee)
