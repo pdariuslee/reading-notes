@@ -119,5 +119,7 @@ Read 18: [Socket.io](401/Class-18.md)
 
 Read 19: [Message Queues](401/Class-19.md)
 
+Read 26: [Component Based UI](401/Class-26.md)
+
 
 Author: **Darius Lee Pasilaban** \| [Darius' Github Page](https://github.com/pdariuslee)
