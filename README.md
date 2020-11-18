@@ -121,5 +121,7 @@ Read 19: [Message Queues](401/Class-19.md)
 
 Read 26: [Component Based UI](401/Class-26.md)
 
+Read 27: [Props and State](401/Class-27.md)
+
 
 Author: **Darius Lee Pasilaban** \| [Darius' Github Page](https://github.com/pdariuslee)
