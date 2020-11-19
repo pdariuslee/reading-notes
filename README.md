@@ -123,5 +123,7 @@ Read 26: [Component Based UI](401/Class-26.md)
 
 Read 27: [Props and State](401/Class-27.md)
 
+Read 28: [Component Composition](401/Class-28.md)
+
 
 Author: **Darius Lee Pasilaban** \| [Darius' Github Page](https://github.com/pdariuslee)
