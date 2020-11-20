@@ -125,5 +125,7 @@ Read 27: [Props and State](401/Class-27.md)
 
 Read 28: [Component Composition](401/Class-28.md)
 
+Read 29: [Routing](401/Class-29.md)
+
 
 Author: **Darius Lee Pasilaban** \| [Darius' Github Page](https://github.com/pdariuslee)
