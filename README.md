@@ -127,5 +127,7 @@ Read 28: [Component Composition](401/Class-28.md)
 
 Read 29: [Routing](401/Class-29.md)
 
+Read : [Hash Tables](401/Hash-Tables.md)
+
 
 Author: **Darius Lee Pasilaban** \| [Darius' Github Page](https://github.com/pdariuslee)
