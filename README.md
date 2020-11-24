@@ -127,6 +127,8 @@ Read 28: [Component Composition](401/Class-28.md)
 
 Read 29: [Routing](401/Class-29.md)
 
+Read 31: [Retrospective](401/Class-31.md)
+
 Read : [Hash Tables](401/Hash-Tables.md)
 
 
