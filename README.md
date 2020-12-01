@@ -133,6 +133,8 @@ Read 32: [Hooks API](401/Class-32.md)
 
 Read 33: [Context API](401/Class-33.md)
 
+Read 34: [Application State with Redux](401/Class-34.md)
+
 Read : [Hash Tables](401/Hash-Tables.md)
 
 
