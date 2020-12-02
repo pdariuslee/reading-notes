@@ -135,6 +135,8 @@ Read 33: [Context API](401/Class-33.md)
 
 Read 34: [Application State with Redux](401/Class-34.md)
 
+Read 37: [Redux - Combined Reducers](401/Class-37.md)
+
 Read : [Hash Tables](401/Hash-Tables.md)
 
 
