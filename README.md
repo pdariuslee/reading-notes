@@ -137,6 +137,8 @@ Read 34: [Application State with Redux](401/Class-34.md)
 
 Read 37: [Redux - Combined Reducers](401/Class-37.md)
 
+Read 38: [Redux - Asynchronous Actions](401/Class-38.md)
+
 Read : [Hash Tables](401/Hash-Tables.md)
 
 
