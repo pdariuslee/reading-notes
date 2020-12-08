@@ -147,5 +147,9 @@ Read : [Hash Tables](401/Hash-Tables.md)
 
 Read : [Graphs Tables](401/Graphs.md)
 
+Read : [Ethics in Tech](401/Ethics-in-Tech.md)
+
+
+
 
 Author: **Darius Lee Pasilaban** \| [Darius' Github Page](https://github.com/pdariuslee)
