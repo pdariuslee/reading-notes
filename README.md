@@ -143,6 +143,8 @@ Read 39: [Redux - Additional Topics](401/Class-39.md)
 
 Read 41: [React Native](401/Class-41.md)
 
+Read 43: [Open-Source Software Contribution](401/Class-43.md)
+
 Read : [Hash Tables](401/Hash-Tables.md)
 
 Read : [Graphs Tables](401/Graphs.md)
